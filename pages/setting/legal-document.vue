@@ -1,0 +1,3 @@
+<template>
+    Legal Documents
+</template>
